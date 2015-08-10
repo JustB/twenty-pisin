@@ -12,5 +12,5 @@
 */
 
 pre.prettyprint {
-    font-size: 13.5px;
+	font-family: Monaco, 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Lucida Console', monospace;
 }
